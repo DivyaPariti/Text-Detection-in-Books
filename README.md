@@ -7,3 +7,4 @@ The process of text detection and recognition analyses different approaches used
 This application real time text detection or recognition helps the particular user to detect text in real time and in
 some cases it is used to convert the text into speech for the blind people for the use.
 
+https://github.com/DivyaPariti/Text-Detection-in-books/issues/1#issue-656596064
