@@ -1,4 +1,4 @@
-# Text-Detection-in-books
+ Text-Detection-in-books
 Text recognition is the process of detecting text in images and video streams and
 recognizing the text contained in the frame.
 Once detected, the recognizer then determines the actual text in each block and segments it into lines and words.
@@ -6,3 +6,4 @@ TheText API detects text in real time, on device.
 The process of text detection and recognition analyses different approaches used for text extraction from color images.
 This application real time text detection or recognition helps the particular user to detect text in real time and in
 some cases it is used to convert the text into speech for the blind people for the use.
+
